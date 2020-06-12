@@ -16,7 +16,6 @@ class TextRecognizerActivity : AppCompatActivity() {
         setContentView(R.layout.activity_text_recognizer)
         resultEditText = findViewById(R.id.ocrResultEt)
         ocrImage = findViewById(R.id.ocrImageView)
-        //get the selected image path from the intent
         val imagePath = intent.getStringExtra("IMAGE_PATH")
         val imageText = intent.getStringExtra("IMAGE_TEXT")
        // ocrImage.setImageBitmap(imagePath)
