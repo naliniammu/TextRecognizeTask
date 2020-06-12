@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696452286151",
+    "firebase_url": "https://textrecognizetask.firebaseio.com",
+    "project_id": "textrecognizetask",
+    "storage_bucket": "textrecognizetask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696452286151:android:88b433c11077b3f8ef60e2",
+        "android_client_info": {
+          "package_name": "com.example.textrecognizetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696452286151-uv6q52fo9kri7ta26j954rlenr75478b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL6Yi9UPEkqUUvnooTQhN4z-PfM1uy4uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696452286151-uv6q52fo9kri7ta26j954rlenr75478b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
