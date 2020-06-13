@@ -27,6 +27,7 @@ class TestActivity : AppCompatActivity() {
         //set an onclick listener on the button to trigger the @pickImage() method
         selectImageBtn.setOnClickListener {
             pickImage()
+
         }
 
         //set an onclick listener on the button to trigger the @processImage method
