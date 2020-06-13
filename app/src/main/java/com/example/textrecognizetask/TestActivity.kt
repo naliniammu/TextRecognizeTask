@@ -24,7 +24,6 @@ class TestActivity : AppCompatActivity() {
         setContentView(R.layout.activity_test)
 
         ocrImage = findViewById(R.id.ocrImageView)
-        resultEditText = findViewById(R.id.ocrResultEt)
         //set an onclick listener on the button to trigger the @pickImage() method
         selectImageBtn.setOnClickListener {
             pickImage()

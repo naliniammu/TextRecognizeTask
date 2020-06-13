@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TextRecognizeTask</string>
+    <string name="recognize_text">Recognize Text</string>
+    <string name="image_text_details">Image Text Details</string>
+    <string name="detected_text_will_appear_here">Detected text will appear here.</string>
+    <string name="todo">TODO</string>
 </resources>
